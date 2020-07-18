@@ -9,6 +9,13 @@ Created a breakfast scene using openGL transformations, matrix stack operations,
         Department of Computer Science
     Sriram Kodey - 2018A4PS0671H
         Department of Mechanical Engineering
+        
+## Compilation steps:
+
+    1. g++ -c Components.h
+    2. g++ -c ObjLoader.h
+    3. g++ -c Pan_Zoom.h
+    4. g++ main.cpp -lGL -lGLU -lglut
 
 ## About the Scene:
 
