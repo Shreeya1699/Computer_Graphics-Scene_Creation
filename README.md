@@ -27,6 +27,8 @@ Few Important Keys:
 
     v = Downward movement
     
+ ## Final Scene Rendered:
+    
   ![alt text](https://github.com/Shreeya1699/Computer_Graphics-Scene_Creation/blob/master/output.png)
 
                                                     Thank You!
