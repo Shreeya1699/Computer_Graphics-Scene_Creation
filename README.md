@@ -26,7 +26,7 @@ Few Important Keys:
     r = Upward movement
 
     v = Downward movement
- 
- output.png
+    
+  ![alt text](https://github.com/Shreeya1699/Computer_Graphics-Scene_Creation/blob/master/output.png)
 
                                                     Thank You!
