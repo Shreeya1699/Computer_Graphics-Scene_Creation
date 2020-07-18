@@ -36,6 +36,6 @@ Few Important Keys:
     
  ## Final Scene Rendered:
     
-  ![alt text](https://github.com/Shreeya1699/Computer_Graphics-Scene_Creation/blob/master/output.png)
+                ![alt text](https://github.com/Shreeya1699/Computer_Graphics-Scene_Creation/blob/master/output.png)
 
                                                     Thank You!
